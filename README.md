@@ -40,15 +40,8 @@
 - 🎶 **MuSync** – Analyzed user listening patterns to recommend playlists.  
 
 ---
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salianShravya&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salianShravya&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
+### 📊 Technologies I Know
+<img width="500" height="500" alt="technologies_bar_graph" src="https://github.com/user-attachments/assets/a8059f36-47a6-4c63-85ce-730c47796bd3" />
 
 ---
 
