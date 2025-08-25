@@ -61,17 +61,11 @@
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/salianShravya/salianShravya/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
 ### 📫 Contact Me
-- 📧 Email: **shravyasalian13@gmail.com** | **shravya.salian@somaiya.edu**  
+- 📧 Email: **shravyasalian13@gmail.com** 
 - 🌐 Portfolio: [shravyasalian.netlify.app](https://shravyasalian.netlify.app/)  
 - 💼 LinkedIn: [linkedin.com/in/shravyacsalian](https://linkedin.com/in/shravyacsalian) 
 
